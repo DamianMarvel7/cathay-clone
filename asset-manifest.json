@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/cathay-clone/static/css/main.bcc1d652.css",
+    "main.js": "/cathay-clone/static/js/main.5316dc6a.js",
+    "static/media/gallery5.jpg": "/cathay-clone/static/media/gallery5.cab43eae30d204978c15.jpg",
+    "static/media/content-image2.jpg": "/cathay-clone/static/media/content-image2.0130c6bb5a3331723c9d.jpg",
+    "static/media/content-image5.jpg": "/cathay-clone/static/media/content-image5.8a796d679074b6dedc8e.jpg",
+    "static/media/content-image4.jpg": "/cathay-clone/static/media/content-image4.2182cc192996e2fc61ac.jpg",
+    "static/media/gallery4.jpg": "/cathay-clone/static/media/gallery4.2cd6d1140179ace66526.jpg",
+    "static/media/airline.jpg": "/cathay-clone/static/media/airline.561fc75391f59f407261.jpg",
+    "static/media/content-image1.jpg": "/cathay-clone/static/media/content-image1.97e93fbf471e5fe32626.jpg",
+    "static/media/gallery3.jpg": "/cathay-clone/static/media/gallery3.7624c22d6d84658b8b75.jpg",
+    "static/media/content-image3.jpg": "/cathay-clone/static/media/content-image3.bedca2264cf90f2e32ad.jpg",
+    "static/media/header-landscape1.jpg": "/cathay-clone/static/media/header-landscape1.688d28fbe8a140e335dc.jpg",
+    "static/media/gallery2.jpg": "/cathay-clone/static/media/gallery2.8c9b67166bd77fcd7194.jpg",
+    "static/media/gallery1.jpg": "/cathay-clone/static/media/gallery1.95944ab6450496e73767.jpg",
+    "static/media/cathay-logo.svg": "/cathay-clone/static/media/cathay-logo.b69ba43b8a9c0b6500bcd8437be4cb3c.svg",
+    "static/media/instagram.svg": "/cathay-clone/static/media/instagram.79bdd627f5702ca918803e1fd8ad5b14.svg",
+    "static/media/twitter.svg": "/cathay-clone/static/media/twitter.bd36218149ea1b41362110f83b7147bc.svg",
+    "static/media/youtube.svg": "/cathay-clone/static/media/youtube.1ea69560171a157b743f4119323adeb7.svg",
+    "static/media/linkedin.svg": "/cathay-clone/static/media/linkedin.bd1735a7c0e746a7a01ca76455f32d26.svg",
+    "index.html": "/cathay-clone/index.html",
+    "static/media/notification-bell.svg": "/cathay-clone/static/media/notification-bell.eb2563394a2b523fa3504614d932d6c2.svg",
+    "static/media/facebook.svg": "/cathay-clone/static/media/facebook.8c223b8e72213ca72f529002c9a4f316.svg",
+    "static/media/menu-black.svg": "/cathay-clone/static/media/menu-black.dd92aed316c5967acbf1f7094cd87de4.svg",
+    "static/media/angle-down.svg": "/cathay-clone/static/media/angle-down.b987377cfd5b68209cdba15691748d3e.svg",
+    "static/media/user-profile.svg": "/cathay-clone/static/media/user-profile.25c7a2c4478e96f8be7eddc9f7c01f5b.svg",
+    "static/media/angle-right.svg": "/cathay-clone/static/media/angle-right.3efd9ded5834bc1178d385aa1c4f276c.svg",
+    "main.bcc1d652.css.map": "/cathay-clone/static/css/main.bcc1d652.css.map",
+    "main.5316dc6a.js.map": "/cathay-clone/static/js/main.5316dc6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcc1d652.css",
+    "static/js/main.5316dc6a.js"
+  ]
+}
