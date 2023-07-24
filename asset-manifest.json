@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cathay-clone/static/css/main.bcc1d652.css",
-    "main.js": "/cathay-clone/static/js/main.5316dc6a.js",
+    "main.js": "/cathay-clone/static/js/main.f93ba2c0.js",
     "static/media/gallery5.jpg": "/cathay-clone/static/media/gallery5.cab43eae30d204978c15.jpg",
     "static/media/content-image2.jpg": "/cathay-clone/static/media/content-image2.0130c6bb5a3331723c9d.jpg",
     "static/media/content-image5.jpg": "/cathay-clone/static/media/content-image5.8a796d679074b6dedc8e.jpg",
@@ -27,10 +27,10 @@
     "static/media/user-profile.svg": "/cathay-clone/static/media/user-profile.25c7a2c4478e96f8be7eddc9f7c01f5b.svg",
     "static/media/angle-right.svg": "/cathay-clone/static/media/angle-right.3efd9ded5834bc1178d385aa1c4f276c.svg",
     "main.bcc1d652.css.map": "/cathay-clone/static/css/main.bcc1d652.css.map",
-    "main.5316dc6a.js.map": "/cathay-clone/static/js/main.5316dc6a.js.map"
+    "main.f93ba2c0.js.map": "/cathay-clone/static/js/main.f93ba2c0.js.map"
   },
   "entrypoints": [
     "static/css/main.bcc1d652.css",
-    "static/js/main.5316dc6a.js"
+    "static/js/main.f93ba2c0.js"
   ]
 }
