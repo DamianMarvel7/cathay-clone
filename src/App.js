@@ -5,7 +5,7 @@ import Maintenance from "./Maintenance";
 
 function App() {
   return (
-    <Router basename="/">
+    <Router basename="/cathay-clone">
       <div className="App">
         <Routes>
           <Route exact path="/" element={<Home />} />
